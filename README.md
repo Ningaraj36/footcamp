@@ -1,1 +1,3 @@
-# footcamp
+# footcamp project
+
+using html css and java-script
